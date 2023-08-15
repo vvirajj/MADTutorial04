@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">aug15-mad-lab2</string>
+    <string name="edtName">Enter Name</string>
+    <string name="edtEmail">Enter Email</string>
+    <string name="edtPassword">Enter Password</string>
+    <string name="edtReTypePassword">Re Enter Password</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnCancel">CANCEL</string>
 </resources>
